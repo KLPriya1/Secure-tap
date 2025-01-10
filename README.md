@@ -20,6 +20,14 @@ The **Emergency Alerts System** is a Django-based web application designed to en
 - **Send Alerts**: Users can send a predefined alert message with their location to all added contacts instantly.
 - **View Sent Alerts**: Users can view a history of all the alerts they've sent.
 
+## Screenshots
+### Homepage
+![Home Page Screenshot](Images/Screenshot1.png)
+### Contacts management
+![Contacts](Images/Screenshot2.png)
+### Sent alerts
+![Contacts](Images/Screenshot3.png)
+
 ## Technical Overview
 
 ### Backend
